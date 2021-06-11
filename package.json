@@ -1,0 +1,22 @@
+{
+  "name": "@vanpariyar/text-manipulation",
+  "version": "0.0.1",
+  "description": "This is simple text manipulator package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanpariyar/npm-package-text-manipulation.git"
+  },
+  "keywords": [
+    "text-manipulation"
+  ],
+  "author": "Ronak Vanpariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanpariyar/npm-package-text-manipulation/issues"
+  },
+  "homepage": "https://github.com/vanpariyar/npm-package-text-manipulation#readme"
+}
